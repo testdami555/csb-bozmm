@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://testdami555.github.io/csb-bozmm/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://testdami555.github.io/csb-bozmm/static/js/main.7275ed8f.chunk.js",
+    "main.js.map": "https://testdami555.github.io/csb-bozmm/static/js/main.7275ed8f.chunk.js.map",
+    "runtime-main.js": "https://testdami555.github.io/csb-bozmm/static/js/runtime-main.b68f7e60.js",
+    "runtime-main.js.map": "https://testdami555.github.io/csb-bozmm/static/js/runtime-main.b68f7e60.js.map",
+    "static/js/2.a4ba2aed.chunk.js": "https://testdami555.github.io/csb-bozmm/static/js/2.a4ba2aed.chunk.js",
+    "static/js/2.a4ba2aed.chunk.js.map": "https://testdami555.github.io/csb-bozmm/static/js/2.a4ba2aed.chunk.js.map",
+    "index.html": "https://testdami555.github.io/csb-bozmm/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://testdami555.github.io/csb-bozmm/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4ba2aed.chunk.js.LICENSE.txt": "https://testdami555.github.io/csb-bozmm/static/js/2.a4ba2aed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b68f7e60.js",
+    "static/js/2.a4ba2aed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7275ed8f.chunk.js"
+  ]
+}
